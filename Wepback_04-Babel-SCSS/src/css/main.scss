@@ -1,0 +1,16 @@
+
+/*this is scss code, it will import _colors.scss*/
+@import"colors";
+#randomInt {
+  background-color: $main;
+  border: 1px solid black;
+  color: white;
+  padding: 5px;
+}
+
+#randomRange {
+  background-color: $secondary;
+  border: 1px solid black;
+  color: white;
+  padding: 5px;
+}
